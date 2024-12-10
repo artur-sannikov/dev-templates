@@ -259,7 +259,7 @@
         };
 
         python-data-science = {
-          path = ./python;
+          path = ./python-data-science;
           description = "Python development environment for quick data science tests";
         };
 
