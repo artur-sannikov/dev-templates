@@ -258,6 +258,11 @@
           description = "Python development environment";
         };
 
+        python-data-science = {
+          path = ./python;
+          description = "Python development environment for quick data science tests";
+        };
+
         r = {
           path = ./r;
           description = "R development environment";
